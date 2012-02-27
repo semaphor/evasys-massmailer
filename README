@@ -1,0 +1,13 @@
+EvaSys Massmailer
+=================
+
+A small Python script for sending emails to all students of ulm university providing them with an individual TAN, intended for invitations to surveys.
+
+Documentation mainly takes place within the scirpts themselves. As the scripts are developed for use at ulm university we wrote it in German.
+
+mailit.py:		send emails.
+reminderlist.py:	generate new address list for reminder email.
+
+
+General information and contact regarding the surveys (English and German):
+  http://www.uni-ulm.de/index.php?id=31289
